@@ -2,7 +2,7 @@
 
 namespace App\Sharp\Commands;
 
-use App\User;
+use App\Models\User;
 use Code16\Sharp\EntityList\Commands\EntityCommand;
 use Code16\Sharp\EntityList\EntityListQueryParams;
 use Code16\Sharp\Form\Fields\SharpFormCheckField;

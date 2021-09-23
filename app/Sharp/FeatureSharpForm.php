@@ -2,7 +2,7 @@
 
 namespace App\Sharp;
 
-use App\Feature;
+use App\Models\Feature;
 use Code16\Sharp\Form\Eloquent\WithSharpFormEloquentUpdater;
 use Code16\Sharp\Form\Fields\SharpFormSelectField;
 use Code16\Sharp\Form\Fields\SharpFormTextField;

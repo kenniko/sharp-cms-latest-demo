@@ -2,7 +2,7 @@
 
 namespace App\Sharp\Commands;
 
-use App\Pilot;
+use App\Models\Pilot;
 use Code16\Sharp\EntityList\Commands\EntityCommand;
 use Code16\Sharp\EntityList\EntityListQueryParams;
 

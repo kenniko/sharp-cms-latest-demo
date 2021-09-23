@@ -2,7 +2,7 @@
 
 namespace App\Sharp\Filters;
 
-use App\Corporation;
+use App\Models\Corporation;
 use Code16\Sharp\Utils\Filters\GlobalRequiredFilter;
 
 class CorporationGlobalFilter implements GlobalRequiredFilter

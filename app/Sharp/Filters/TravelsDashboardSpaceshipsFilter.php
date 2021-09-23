@@ -2,7 +2,7 @@
 
 namespace App\Sharp\Filters;
 
-use App\Spaceship;
+use App\Models\Spaceship;
 use Code16\Sharp\Dashboard\DashboardSelectMultipleFilter;
 
 class TravelsDashboardSpaceshipsFilter implements DashboardSelectMultipleFilter

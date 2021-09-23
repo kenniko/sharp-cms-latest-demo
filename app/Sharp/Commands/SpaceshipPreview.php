@@ -2,7 +2,7 @@
 
 namespace App\Sharp\Commands;
 
-use App\Spaceship;
+use App\Models\Spaceship;
 use Code16\Sharp\EntityList\Commands\InstanceCommand;
 
 class SpaceshipPreview extends InstanceCommand

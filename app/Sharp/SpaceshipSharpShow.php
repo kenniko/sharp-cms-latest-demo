@@ -7,7 +7,7 @@ use App\Sharp\Commands\SpaceshipPreview;
 use App\Sharp\Commands\SpaceshipSendMessage;
 use App\Sharp\CustomShowFields\SharpShowTitleField;
 use App\Sharp\States\SpaceshipEntityState;
-use App\Spaceship;
+use App\Models\Spaceship;
 use Code16\Sharp\Form\Eloquent\Uploads\Transformers\SharpUploadModelFormAttributeTransformer;
 use Code16\Sharp\Show\Fields\SharpShowEntityListField;
 use Code16\Sharp\Show\Fields\SharpShowFileField;

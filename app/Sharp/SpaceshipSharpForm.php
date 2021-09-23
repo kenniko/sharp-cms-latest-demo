@@ -2,10 +2,10 @@
 
 namespace App\Sharp;
 
-use App\Feature;
-use App\Pilot;
-use App\Spaceship;
-use App\SpaceshipType;
+use App\Models\Feature;
+use App\Models\Pilot;
+use App\Models\Spaceship;
+use App\Models\SpaceshipType;
 use Code16\Sharp\Exceptions\Form\SharpApplicativeException;
 use Code16\Sharp\Form\Eloquent\Uploads\Transformers\SharpUploadModelFormAttributeTransformer;
 use Code16\Sharp\Form\Eloquent\WithSharpFormEloquentUpdater;

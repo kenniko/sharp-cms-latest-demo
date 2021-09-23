@@ -2,7 +2,7 @@
 
 namespace App\Sharp\Filters;
 
-use App\Travel;
+use App\Models\Travel;
 use Code16\Sharp\EntityList\EntityListSelectFilter;
 
 class PassengerTravelFilter implements EntityListSelectFilter

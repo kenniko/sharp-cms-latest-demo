@@ -2,7 +2,7 @@
 
 namespace App\Sharp\Filters;
 
-use App\Pilot;
+use App\Models\Pilot;
 use Code16\Sharp\EntityList\EntityListSelectMultipleFilter;
 
 class SpaceshipPilotsFilter implements EntityListSelectMultipleFilter

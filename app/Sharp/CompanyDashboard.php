@@ -2,8 +2,8 @@
 
 namespace App\Sharp;
 
-use App\Feature;
-use App\SpaceshipType;
+use App\Models\Feature;
+use App\Models\SpaceshipType;
 use Code16\Sharp\Dashboard\DashboardQueryParams;
 use Code16\Sharp\Dashboard\Layout\DashboardLayoutRow;
 use Code16\Sharp\Dashboard\SharpDashboard;

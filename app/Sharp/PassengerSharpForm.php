@@ -2,8 +2,8 @@
 
 namespace App\Sharp;
 
-use App\Passenger;
-use App\Travel;
+use App\Models\Passenger;
+use App\Models\Travel;
 use Code16\Sharp\Form\Eloquent\WithSharpFormEloquentUpdater;
 use Code16\Sharp\Form\Fields\SharpFormDateField;
 use Code16\Sharp\Form\Fields\SharpFormSelectField;

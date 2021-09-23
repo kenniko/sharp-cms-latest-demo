@@ -2,7 +2,7 @@
 
 namespace App\Sharp\Commands;
 
-use App\User;
+use App\Models\User;
 use Code16\Sharp\EntityList\Commands\SingleInstanceCommand;
 use Code16\Sharp\Form\Fields\SharpFormTextField;
 

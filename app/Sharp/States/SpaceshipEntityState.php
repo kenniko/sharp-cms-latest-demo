@@ -2,7 +2,7 @@
 
 namespace App\Sharp\States;
 
-use App\Spaceship;
+use App\Models\Spaceship;
 use Code16\Sharp\EntityList\Commands\EntityState;
 
 class SpaceshipEntityState extends EntityState

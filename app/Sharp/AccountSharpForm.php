@@ -2,7 +2,7 @@
 
 namespace App\Sharp;
 
-use App\User;
+use App\Models\User;
 use Code16\Sharp\Form\Eloquent\WithSharpFormEloquentUpdater;
 use Code16\Sharp\Form\Fields\SharpFormTextField;
 use Code16\Sharp\Form\Layout\FormLayoutColumn;

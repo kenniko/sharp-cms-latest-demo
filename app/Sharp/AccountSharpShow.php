@@ -4,7 +4,7 @@ namespace App\Sharp;
 
 use App\Sharp\Commands\AccountUpdateName;
 use App\Sharp\States\AccountStatusState;
-use App\User;
+use App\Models\User;
 use Code16\Sharp\Show\Fields\SharpShowTextField;
 use Code16\Sharp\Show\Layout\ShowLayoutColumn;
 use Code16\Sharp\Show\Layout\ShowLayoutSection;

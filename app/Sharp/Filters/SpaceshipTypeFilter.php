@@ -2,7 +2,7 @@
 
 namespace App\Sharp\Filters;
 
-use App\SpaceshipType;
+use App\Models\SpaceshipType;
 use Code16\Sharp\EntityList\EntityListSelectRequiredFilter;
 
 class SpaceshipTypeFilter implements EntityListSelectRequiredFilter

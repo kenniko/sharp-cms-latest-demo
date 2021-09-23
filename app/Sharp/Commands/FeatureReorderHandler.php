@@ -2,7 +2,7 @@
 
 namespace App\Sharp\Commands;
 
-use App\Feature;
+use App\Models\Feature;
 use Code16\Sharp\EntityList\Commands\ReorderHandler;
 
 class FeatureReorderHandler implements ReorderHandler

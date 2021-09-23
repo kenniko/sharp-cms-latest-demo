@@ -2,7 +2,7 @@
 
 namespace App\Sharp;
 
-use App\Passenger;
+use App\Models\Passenger;
 use App\Sharp\Filters\PassengerBirthdateFilter;
 use App\Sharp\Filters\PassengerTravelFilter;
 use Code16\Sharp\EntityList\Containers\EntityListDataContainer;

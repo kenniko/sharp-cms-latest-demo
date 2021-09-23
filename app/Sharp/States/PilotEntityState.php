@@ -2,7 +2,7 @@
 
 namespace App\Sharp\States;
 
-use App\Pilot;
+use App\Models\Pilot;
 use Code16\Sharp\EntityList\Commands\EntityState;
 
 class PilotEntityState extends EntityState

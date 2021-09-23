@@ -2,8 +2,8 @@
 
 namespace App\Sharp;
 
-use App\Spaceship;
-use App\Travel;
+use App\Models\Spaceship;
+use App\Models\Travel;
 use Code16\Sharp\Form\Eloquent\WithSharpFormEloquentUpdater;
 use Code16\Sharp\Form\Fields\SharpFormAutocompleteField;
 use Code16\Sharp\Form\Fields\SharpFormAutocompleteListField;

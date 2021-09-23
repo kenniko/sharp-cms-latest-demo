@@ -4,7 +4,7 @@ namespace App\Sharp;
 
 use App\Sharp\Commands\ExportUsersCommand;
 use App\Sharp\Commands\InviteUserCommand;
-use App\User;
+use App\Models\User;
 use Code16\Sharp\EntityList\Containers\EntityListDataContainer;
 use Code16\Sharp\EntityList\EntityListQueryParams;
 use Code16\Sharp\EntityList\SharpEntityList;

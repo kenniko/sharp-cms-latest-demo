@@ -2,7 +2,7 @@
 
 namespace App\Sharp;
 
-use App\Pilot;
+use App\Models\Pilot;
 use Code16\Sharp\Form\Fields\SharpFormNumberField;
 use Code16\Sharp\Form\Layout\FormLayoutColumn;
 

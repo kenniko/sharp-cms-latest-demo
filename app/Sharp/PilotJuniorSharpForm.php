@@ -2,9 +2,9 @@
 
 namespace App\Sharp;
 
-use App\Pilot;
+use App\Models\Pilot;
 use App\Sharp\CustomFormFields\SharpCustomFormFieldTextIcon;
-use App\Spaceship;
+use App\Models\Spaceship;
 use Code16\Sharp\Form\Eloquent\WithSharpFormEloquentUpdater;
 use Code16\Sharp\Form\Layout\FormLayoutColumn;
 use Code16\Sharp\Form\SharpForm;

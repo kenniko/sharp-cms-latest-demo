@@ -10,7 +10,7 @@ use App\Sharp\Commands\SpaceshipSynchronize;
 use App\Sharp\Filters\SpaceshipPilotsFilter;
 use App\Sharp\Filters\SpaceshipTypeFilter;
 use App\Sharp\States\SpaceshipEntityState;
-use App\Spaceship;
+use App\Models\Spaceship;
 use Code16\Sharp\EntityList\Containers\EntityListDataContainer;
 use Code16\Sharp\EntityList\EntityListQueryParams;
 use Code16\Sharp\EntityList\SharpEntityList;

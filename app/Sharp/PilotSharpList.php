@@ -2,7 +2,7 @@
 
 namespace App\Sharp;
 
-use App\Pilot;
+use App\Models\Pilot;
 use App\Sharp\Commands\PilotDownloadPhoto;
 use App\Sharp\Commands\PilotUpdateXPCommand;
 use App\Sharp\Filters\PilotRoleFilter;

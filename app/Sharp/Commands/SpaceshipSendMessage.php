@@ -2,7 +2,7 @@
 
 namespace App\Sharp\Commands;
 
-use App\Spaceship;
+use App\Models\Spaceship;
 use Code16\Sharp\EntityList\Commands\InstanceCommand;
 use Code16\Sharp\Exceptions\Form\SharpApplicativeException;
 use Code16\Sharp\Form\Fields\SharpFormAutocompleteField;

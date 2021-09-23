@@ -2,7 +2,7 @@
 
 namespace App\Sharp\States;
 
-use App\User;
+use App\Models\User;
 use Code16\Sharp\EntityList\Commands\SingleEntityState;
 
 class AccountStatusState extends SingleEntityState

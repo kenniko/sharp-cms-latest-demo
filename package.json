@@ -22,10 +22,8 @@
         "resolve-url-loader": "^4.0.0",
         "sass": "^1.42.1",
         "sass-loader": "^12.1.0",
-        "vue": "^2.5.22",
-        "vue-template-compiler": "^2.5.22"
-    },
-    "dependencies": {
-        "sharp-plugin": "0.0.2"
+        "sharp-plugin": "^0.0.2",
+        "vue": "^3.2.19",
+        "vue-loader": "^16.2.0"
     }
 }
